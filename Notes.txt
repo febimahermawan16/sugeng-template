@@ -1,0 +1,6 @@
+Plugin :
+- bootstrap v5.1
+- @material-ui/core
+- @material-ui/icons
+- font-awesome
+- boxicons
