@@ -32,7 +32,7 @@
 body{
     font-family: 'Source Sans Pro', sans-serif;
     background: #f9f9f9;
-    color: #6E6B7B;
+    color: #333;
 }
 
 
@@ -2210,7 +2210,8 @@ header .app-header{
   top: 10px;
   width: 250px;
   height: calc(100vh - 20px);
-  background: #290c4a;
+  /* background: #290c4a; */
+  background: #0b2133;
   border-radius: 20px;
   box-shadow: 0 1.6rem 3rem rgb(0 0 0 / 10%);
   overflow: hidden;
@@ -2369,7 +2370,7 @@ header .app-header{
 }
 .content-sidebar li.sidebar-list .list-content .idescription{
   width: 100%;
-  font-size: 1rem;
+  font-size: .9rem;
 }
 .content-sidebar li.sidebar-list .list-content .idescription.use-icon{
   width: 85%;
